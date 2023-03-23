@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ei6/KW4oPk0qDhKGpAiYzg2NH54sHAqzjzcMEPrEHIm+6bnfs2f+nAa/lappZ4W0IWe7jN+zLVVKj6c9bKWR0g==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\Repos\\eGPU Profile Manager\\eGPU Profile Manager\\eGPU Profile Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seami\\.nuget\\packages\\sea.mvvm\\0.5.0\\sea.mvvm.0.5.0.nupkg.sha512",
+    "C:\\Users\\seami\\.nuget\\packages\\sea.mvvm.wpf\\0.5.0\\sea.mvvm.wpf.0.5.0.nupkg.sha512",
+    "C:\\Users\\seami\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\seami\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
